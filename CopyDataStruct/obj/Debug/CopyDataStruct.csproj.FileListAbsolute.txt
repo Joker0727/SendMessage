@@ -1,0 +1,10 @@
+F:\BaiduYunDownload\SendMessageExample\CopyDataStruct\bin\Debug\CopyDataStruct.dll
+F:\BaiduYunDownload\SendMessageExample\CopyDataStruct\bin\Debug\CopyDataStruct.pdb
+F:\BaiduYunDownload\SendMessageExample\CopyDataStruct\obj\Debug\ResolveAssemblyReference.cache
+F:\BaiduYunDownload\SendMessageExample\CopyDataStruct\obj\Debug\CopyDataStruct.dll
+F:\BaiduYunDownload\SendMessageExample\CopyDataStruct\obj\Debug\CopyDataStruct.pdb
+C:\Users\16107\Desktop\SendMessageExample\CopyDataStruct\bin\Debug\CopyDataStruct.dll
+C:\Users\16107\Desktop\SendMessageExample\CopyDataStruct\bin\Debug\CopyDataStruct.pdb
+C:\Users\16107\Desktop\SendMessageExample\CopyDataStruct\obj\Debug\CopyDataStruct.csproj.CoreCompileInputs.cache
+C:\Users\16107\Desktop\SendMessageExample\CopyDataStruct\obj\Debug\CopyDataStruct.dll
+C:\Users\16107\Desktop\SendMessageExample\CopyDataStruct\obj\Debug\CopyDataStruct.pdb
